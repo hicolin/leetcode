@@ -24,7 +24,6 @@ class Solution
      */
     function addTwoNumbers($l1, $l2)
     {
-
         $pre = new ListNode(0);
         $cur = $pre;
         $carry = 0;
